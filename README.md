@@ -19,6 +19,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGoydmM0bmlic2NtZTZkaTZtMmxncTh2em0zb29sdTVpYm4wZ3E3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbJYBCi69nyVOffLIU/giphy-downsized.gif" width="600" height="350"/>
 </div>
 ### :woman_technologist: About Me :
-I am beginner Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am beginner Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> from Ukraine.
 
   
