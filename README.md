@@ -16,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=Priadkomarri48&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Y3cGExeDh4YmE4emVzaDN3dDY4bW96YTh4dm1hajBrcGdyMjloeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XbJYBCi69nyVOffLIU/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Y3cGExeDh4YmE4emVzaDN3dDY4bW96YTh4dm1hajBrcGdyMjloeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XbJYBCi69nyVOffLIU/giphy.gif"/>
 </div>
 
   
