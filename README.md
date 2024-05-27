@@ -3,9 +3,9 @@
 </div>
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/your_linkedin_profile">
-    <img src="https://img.shields.io/badge/WhatsUp-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="Whatsup Badge"/>
+    <img src="https://img.shields.io/badge/Linkdedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
-  <a href="https://youtube.com/c/your_youtube_channel">
+  <a href="https://web.telegram.org/a/">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://twitter.com/your_twitter_profile">
