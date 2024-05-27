@@ -22,8 +22,8 @@
 ### :woman_technologist: About Me :
 I am beginner Full Stack Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
 
-- :telescope: I’m studying Soft Skills, Full Stack Developer.
+- :headphones: I’m studying Soft Skills, Full Stack Developer.
 
-- :seedling: Exploring new Technicals skills.
+- :telescope: Exploring new Technicals skills.
 
-- :zap: In my free time, I usually practising with solving problems and redoing codes.
+- :clock5: In my free time, I usually practising with solving problems and redoing codes.
