@@ -16,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=Priadkomarri48&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=790b7611nhprfip3p1swzd8rbf89j0tci85hgabug9uaj065&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.gif" width="600" height="300"/>
 </div>
 
   
