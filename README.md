@@ -15,6 +15,8 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Priadkomarri48&style=flat-square&color=blue" alt=""/>
 </div>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif?cid=ecf05e47yd3cx53zy4vvnwsgfdj148ztlz97aarbvy2xjhc0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
 
   
