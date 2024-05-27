@@ -16,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=Priadkomarri48&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img <iframe src="https://giphy.com/embed/XbJYBCi69nyVOffLIU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Wegow-lofi-wegow-XbJYBCi69nyVOffLIU">via GIPHY</a></p> width="600" height="300"/>
+  <img src="https://giphy.com/embed/XbJYBCi69nyVOffLIU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen> <p><a href="https://giphy.com/gifs/Wegow-lofi-wegow-XbJYBCi69nyVOffLIU">via GIPHY</a></p> width="600" height="300"/>
 </div>
 
   
